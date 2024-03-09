@@ -1,4 +1,4 @@
-#All credits to (https://github.com/assantos/eon_simulator)
+All credits to (https://github.com/assantos/eon_simulator). I have uploaded for testing my codes.
 
 # Elastic Optical Network Simulator
 
