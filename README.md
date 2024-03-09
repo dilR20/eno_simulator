@@ -1,3 +1,5 @@
+#All credits to (https://github.com/assantos/eon_simulator)
+
 # Elastic Optical Network Simulator
 
 This simulator run arrival requests on an Elastic Optical Network Simulator.
